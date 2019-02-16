@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "EZFlutterSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Flutter编译后的文件"
   spec.homepage     = "https://github.com/wutongyu008/FlutterSDK"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
   spec.source       = { :git => "https://github.com/wutongyu008/FlutterSDK.git", :tag => "#{spec.version}" }
 
-  spec.vendored_frameworks = "Framework/*.framework", "Framework/engine/*.framework"
+  spec.vendored_frameworks = "Framework/*.framework"
   spec.resources = "Framework/flutter_assets"
 
 end
