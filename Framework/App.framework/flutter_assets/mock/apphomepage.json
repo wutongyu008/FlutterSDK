@@ -1,0 +1,598 @@
+[
+  {
+    "type": 4,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "demo",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fv6jPzvHmaklus0gvUgOgHHI_6Hh",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Ffanyi.baidu.com%2Ftranslate%3Faldtype%3D16047%26query%3D%25E5%2588%2586%25E5%25BC%2580%25E5%25B1%2595%25E7%25A4%25BA%26keyfrom%3Dbaidu%26smartresult%3Ddict%26lang%3Dauto2zh%23en%2Fzh%2FVP&title=demo&ezspm=2.10000000.28.7.5acc2ba95dfc7a000b8a8f6b"
+      },
+      {
+        "name": "demo2",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fi_uXnmwmPKsLRfslAQDwrosQgTf",
+        "link": "ezbuyapp://category?id=0&title=demo2&ezspm=2.10000000.28.7.5acc2c355dfc7a000b8a8f6c"
+      },
+      {
+        "name": "demo3",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FoO8RmxE70fIrSlKrdIyM7WMv5Wy",
+        "link": "ezbuyapp://web?url=http%3A%2F%2Fm2.sg.65emall.net%2Fapp%2Fshake%2F5c3bf88e20ccc60009a0f422&title=demo3&ezspm=2.10000000.28.7.5acc602d3afd6f000b624af4"
+      },
+      {
+        "name": "tiyisi",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FkqK_o443cW3cvkeCzM49dBZdvAV",
+        "link": "ezbuyapp://category?id=0&title=tiyisi&ezspm=2.10000000.28.7.5c19e27b62bdc2000b0e7901"
+      },
+      {
+        "name": "demo4",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FrqVCPkxGTkLgWhGb0cKxsvQocCt",
+        "link": "ezbuyapp://category?id=0&title=demo4&ezspm=2.10000000.28.7.5bcdaf29dcd9df000b5b888c"
+      },
+      {
+        "name": "购物车优惠",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Ftl3uQ4lc1VfQ7SuLkvrvwCwHKUQ",
+        "link": "ezbuyapp://web?url=http%3A%2F%2Fm.sg.65emall.net%2Fpromotion1%2Fcashoffzan000.html&title=%E8%B4%AD%E7%89%A9%E8%BD%A6%E4%BC%98%E6%83%A0&ezspm=2.10000000.28.7.5c6d272cf7de7d000bceff18"
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 3,
+      "columnCount": 1,
+      "cellRatio": 3,
+      "bottomGap": 0
+    }
+  },
+  {
+    "type": 3,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "Best Seller",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FjiiZerJ31KnYzNNq1t8IvmfWR8Q",
+        "link": "ezbuyapp://category?id=&title=Best%20Seller&ezspm=2.10000000.7.0.5959d7e7dac6640008cd9cae"
+      },
+      {
+        "name": "Featured Brands",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fkq7UNsMH5Rqu3MQIIgPq_6pjf8o",
+        "link": "ezbuyapp://category?id=356&title=Featured%20Brands&ezspm=2.10000000.7.0.59f09999955feb0009c4d9f9"
+      },
+      {
+        "name": "eCoin",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FrQG2CwZDrQ66vmpL_wsKe8B9jW1",
+        "link": "ezbuyapp://category?id=0&title=eCoin&ezspm=2.10000000.7.7.595b0d3bdac6640008cd9cb8"
+      },
+      {
+        "name": "Korea",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fpo2lFVK140Dz4scl2ZzjT7EYS3o",
+        "link": "ezbuyapp://category?id=356&title=Korea&ezspm=2.10000000.7.7.58620c480ecdf8089eec738c"
+      },
+      {
+        "name": "11.11 Craziest Sales",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FrkQUc8AAo2HNK_ChKB0XLX0LJGv",
+        "link": "ezbuyapp://category?id=&title=11.11%20Craziest%20Sales&ezspm=2.10000000.7.0.58ec6a9d0ecdf8626a5d9b00"
+      },
+      {
+        "name": "Local",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fop3ynDaCXFZMq6dwk3c4ZaiXS1a",
+        "link": "ezbuyapp://category?id=0&title=Local&ezspm=2.10000000.7.0.5927cce87201f800092cac69"
+      },
+      {
+        "name": "Taiwan",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FiFDAKPNqiEbqTqC19CylteUArqm",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fshop-taiwan-1111-sale.html%3Fapphot%3DbannerID%26ezspm%3D3.10000000.7.0.5927cce37201f800092cac68%26name%3Dshop-taiwan-1111-sale"
+      },
+      {
+        "name": "China",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FlgqoLjkg7ozORXsTSYOxlNEfnwq",
+        "link": "ezbuyapp://category?id=0&title=China&ezspm=2.10000000.7.0.5927ccfb7201f800092cac6b"
+      },
+      {
+        "name": "USA",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fj1G5xXDxKINgCM8Q9TswuQDApk6",
+        "link": "ezbuyapp://web?url=http%3A%2F%2Fm.tw.65emall.net%2Fpromotion1%2Fssses.html%3Fezspm%3D3.10000000.7.0.5860a6620ecdf82709d241b6%26isPreview%3Dtrue"
+      },
+      {
+        "name": "test-218",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fvu3bHEV-LVRfWiGhkl97_FDm513",
+        "link": "ezbuyapp://category?id=218&title=test-218&ezspm=2.10000000.7.0.5c4174454956b90009f390f9"
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 2,
+      "columnCount": 3,
+      "cellRatio": 1.305,
+      "titleColor": "#333333",
+      "bottomGap": 8
+    },
+    "link": ""
+  },
+  {
+    "type": 8,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "1112",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fgm7umKTLaYyVFlq3lTtKzyzgs69",
+        "link": "ezbuyapp://category?id=148&title=1112&ezspm=2.10000000.31.7.0"
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 3,
+      "columnCount": 1,
+      "cellRatio": 3,
+      "bottomGap": 0
+    }
+  },
+  {
+    "type": 2,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "Women's Fashion",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FizHvC911fNVlyg78R38EN9bbndx",
+        "link": "ezbuyapp://category?id=2306&title=Women%27s%20Fashion&ezspm=2.10000000.29.7.58c914660ecdf804962f1a61"
+      },
+      {
+        "name": "Living Style",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FmGTM7_KzLk6dPFli12yeUMGgrDw",
+        "link": "ezbuyapp://category?id=0&title=Living%20Style&ezspm=2.10000000.29.0.58fb1f780ecdf8626a5d9b15"
+      },
+      {
+        "name": "Tech & Gadgets",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FhSYCw0JaAYn9K9bh3fi8UTWh8F5",
+        "link": "ezbuyapp://category?id=28&title=Tech%20%26%20Gadgets&ezspm=2.10000000.29.0.58ecaa660ecdf8626a5d9b01"
+      },
+      {
+        "name": "Men's Fashion",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FrP7xaKoy4wVRRWPIhcnF0nSRv5u",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fmens-fashion-1111-sale.html%3FHomebanner%3Dsaleszone002%26bannerID%3Dmens-fashion-1111-sale%26ezspm%3D3.10000000.29.0.58dcd6af0ecdf804962f1a63"
+      },
+      {
+        "name": "Crazy Deals",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FvkpF5XNsiNeDCGYybVn4oEJUX3x",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fbest-products-half-price.html%3FHomebanner%3Dsaleszone005%26bannerID%3Dbest-products-half-price%26ezspm%3D3.10000000.29.0.58ed980e0ecdf8626a5d9b05"
+      },
+      {
+        "name": "Best Seller",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FkmYxF2GMh082e5CRMdAYO-hwuBC",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fbestseller-ezbuy.html%3FHomebanner%3Dsaleszone006%26bannerID%3Dbestseller-ezbuy%26ezspm%3D3.10000000.29.0.58646fcc0ecdf80a5257e18e"
+      },
+      {
+        "name": "ezHome",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fjz5JITAmn3uL-c4l6g3b_grjjYJ",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fezhome-sg.html%3FHomebanner%3Dsaleszone007%26bannerID%3Dezhome-sg%26ezspm%3D3.10000000.29.0.58fd6b500ecdf8626a5d9b16"
+      },
+      {
+        "name": "Under $9.90",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FoR3jQL1DkDoFzGtXmFUC73g4lJ0",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fpricezone.html%3FHomebanner%3Dsaleszone008%26bannerID%3Dpricezone%26ezspm%3D3.10000000.29.0.59f0aca4955feb0009c4d9fd"
+      },
+      {
+        "name": "Friends Deal",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FtxqJSYCTaBEgfjEji9HH1igDews",
+        "link": "ezbuyapp://web?url=http%3A%2F%2Fm.sg.65emall.net%2Ffriendsdeal%3Fezspm%3D3.10000000.29.7.596f54387451dd0007e3c84e"
+      },
+      {
+        "name": "Trending Now",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FnwwQ8LnLuOsKkidK8B0mXSJ-pNY",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2FPromotionMobile%2Ftrendingnow%3FHomebanner%3Dsaleszone010%26bannerID%3Dtrendingnow%26ezspm%3D3.10000000.29.0.59f093aa955feb0009c4d9f7"
+      },
+      {
+        "name": "test 0115",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FkAZvN91tv4zILaf10JMasHWv0O8",
+        "link": "ezbuyapp://category?id=0&title=test%200115&ezspm=2.10000000.29.0.5c3d820a4956b90009f39091"
+      },
+      {
+        "name": "0118test",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FpxvtOoBGDLhzNmlj_rV6JjIWXjb",
+        "link": "ezbuyapp://category?id=176&title=0118test&ezspm=2.10000000.29.0.5c41740b4956b90009f390f5"
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 2,
+      "columnCount": 2,
+      "cellRatio": 1.711,
+      "titleColor": "#333333",
+      "bottomGap": 8
+    },
+    "link": ""
+  },
+  {
+    "type": 1,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "The Accessory",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FrkV6mSpksUTsGbvpS46llVayI5F",
+        "link": "ezbuyapp://category?id=0&title=The%20Accessory&ezspm=2.10000000.32.5.The%20Accessory"
+      },
+      {
+        "name": "Innate & Shopaholic",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FvPhDSTqw8Jvi5gy_DYkeuXAm9-Q",
+        "link": "ezbuyapp://category?id=2036&title=Innate%20%26%20Shopaholic&ezspm=2.10000000.32.7.Innate%20& Shopaholic"
+      },
+      {
+        "name": "Women's Shoe Crush ",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FuVMenaplkXPYVtNluWVLE-kLgz1",
+        "link": "ezbuyapp://category?id=0&title=Women%27s%20Shoe%20Crush%20&ezspm=2.10000000.32.7.Women%27s%20Shoe%20Crush%20"
+      },
+      {
+        "name": "Essential Bags",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FtfRF8ujzBDBk1j266m6acIIXsgY",
+        "link": "ezbuyapp://category?id=2044&title=Essential%20Bags&ezspm=2.10000000.32.5.Essential%20Bags"
+      },
+      {
+        "name": "Special For Kids",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fj1Cek9pa6POP-LyRhAyskomcGo2",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fdouble11-specialsforkids.html%3Fezspm%3D3.10000000.32.5.Special%2520For%2520Kids%26icon5%3D"
+      },
+      {
+        "name": "Kitchen & Bar",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FsOdMovolH8i5VKN9Vmg0mBlsNkl",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fhomegardenkitchenfor1111app.html%3Fezspm%3D3.10000000.32.5.Kitchen%2520%2526%2520Bar%26icon6%3D"
+      },
+      {
+        "name": "Tech Gadgets",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FtB3_MTOglNLmRJb_tAJY8LRT9YE",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2FTechGadgets.html%3Fezspm%3D3.10000000.32.7.Tech%2520Gadgets%26icon8%3D"
+      },
+      {
+        "name": "Home Storage ",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FqcDkpJeow7HHjWpCIttMKsZfTKX",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.ezbuy.sg%2Fpromotion1%2Fhomegardenstoragefor1111app.html%3Fezspm%3D3.10000000.32.5.Home%2520Storage%2520%26icon7%3D"
+      },
+      {
+        "name": "test1",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FkJpR4Km4t5yAgQJ5DUF1uTAwg5y",
+        "link": "ezbuyapp://web?url=http%3A%2F%2Fm.sg.65emall.net%2Fpromotion1%2Ftestcase.html%3Fezspm%3D3.10000000.32.0.test1"
+      },
+      {
+        "name": "testlocalproduct",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FixhgJXGfZGXmvTOfzyER49WAlEb",
+        "link": "ezbuyapp://featureCollections?title=testlocalproduct&ezspm=2.10000000.32.0.testlocalproduct"
+      },
+      {
+        "name": "testproduct",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FhX9sKFT7iZqxR1BQGKTdxNmZpLL",
+        "link": "ezbuyapp://category?id=179&title=testproduct&ezspm=2.10000000.32.0.testproduct"
+      },
+      {
+        "name": "testshop",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FooWBN4w1yeDngo5meNMYSaShJxj",
+        "link": "ezbuyapp://category?id=0&title=testshop&ezspm=2.10000000.32.0.testshop"
+      },
+      {
+        "name": "testseller",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FgYLOQ2bsnfB7Jczt9e1Ui41iVEy",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fm.sg.65emall.net%2Fseller%2Fjennirqueen%3Fezspm%3D3.10000000.32.0.testseller"
+      },
+      {
+        "name": "ezmart",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FtB3_MTOglNLmRJb_tAJY8LRT9YE",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fezmart.frolicin.com%2F%3Fezspm%3D3.10000000.32.0.ezmart"
+      },
+      {
+        "name": "ezmartUAT",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FsOdMovolH8i5VKN9Vmg0mBlsNkl",
+        "link": "ezbuyapp://web?url=https%3A%2F%2Fezmartuat.frolicin.com%2F%3Fezspm%3D3.10000000.32.0.ezmartUAT"
+      },
+      {
+        "name": "OGURL",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FgYLOQ2bsnfB7Jczt9e1Ui41iVEy",
+        "link": "ezbuyapp://web?url=http%3A%2F%2Fm2.sg.65emall.net%2Fshake.html%3Fezspm%3D3.10000000.32.0.OGURL"
+      },
+      {
+        "name": "test0115-1",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fiy-XLxX4WrKwh2J1P126OrcH1z1",
+        "link": "ezbuyapp://category?id=0&title=test0115-1&ezspm=2.10000000.32.0.test0115-1"
+      },
+      {
+        "name": "new",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fsy46gyxmHeySxRcnscur0pci_5a",
+        "link": "ezbuyapp://category?id=0&title=new&ezspm=2.10000000.32.0.new"
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 1,
+      "columnCount": 4,
+      "cellRatio": 1,
+      "bottomGap": 8
+    },
+    "link": ""
+  },
+  {
+    "type": 5,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "阿斯蒂芬",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fl4bi4rFQ9eC_1TMYXG7WvntwfLJ",
+        "link": "ezbuyapp://category?id=0&title=%E9%98%BF%E6%96%AF%E8%92%82%E8%8A%AC&ezspm=2.10000000.30.7.593a4041848d0e000afbe894"
+      },
+      {
+        "name": "asdf",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FnI-GTMZ1YMYiq7j-S2yGhAUwyiu",
+        "link": "ezbuyapp://category?id=0&title=asdf&ezspm=2.10000000.30.7.5939085f848d0e000be3ac78"
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 2,
+      "columnCount": 1,
+      "cellRatio": 3,
+      "bottomGap": 8
+    }
+  },
+  {
+    "type": 10,
+    "entranceList": [
+      {
+        "imageURL": "http://ww1.sinaimg.cn/large/006a751ugy1g0l2p650avj305601l0lv.jpg",
+        "name": "Beauty",
+        "desc": "Up to 91% off",
+        "link": "https://ezbuy.sg",
+        "floorEntities": [
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          }
+        ]
+      },
+      {
+        "imageURL": "http://ww1.sinaimg.cn/large/006a751ugy1g0l2p650avj305601l0lv.jpg",
+        "name": "Beauty",
+        "desc": "Up to 92% off",
+        "link": "https://ezbuy.sg",
+        "floorEntities": [
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          }
+        ]
+      },
+      {
+        "imageURL": "http://ww1.sinaimg.cn/large/006a751ugy1g0l2p650avj305601l0lv.jpg",
+        "name": "Beauty",
+        "desc": "Up to 93% off",
+        "link": "https://ezbuy.sg",
+        "floorEntities": [
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          }
+        ]
+      },
+      {
+        "imageURL": "http://ww1.sinaimg.cn/large/006a751ugy1g0l2p650avj305601l0lv.jpg",
+        "name": "Beauty",
+        "desc": "Up to 94% off",
+        "link": "https://ezbuy.sg",
+        "floorEntities": [
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          }
+        ]
+      },
+      {
+        "imageURL": "http://ww1.sinaimg.cn/large/006a751ugy1g0l2p650avj305601l0lv.jpg",
+        "name": "Beauty",
+        "desc": "Up to 95% off",
+        "link": "https://ezbuy.sg",
+        "floorEntities": [
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          },
+          {
+            "imageURL": "https://img.alicdn.com/imgextra/i1/1832495684/TB2PcA4XznlJKJjSspmXXcOQFXa_!!1832495684.jpg_170x170_.webp",
+            "link": "http://baidu.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": 7,
+    "name": "",
+    "entranceList": [
+      {
+        "name": "Under $9.9",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fmw6xt5rcjz80e1SxUcZ62MHqafG",
+        "link": "ezbuyapp://category?id=a171&title=Under%20%249.9&ezspm=2.10000000.10.0.59b89c02955feb000bba38c2",
+        "floorEntities": [
+          {
+            "type": 1,
+            "name": "Men's pants slim feet sweat pants spring new 2017 Wei Pant men's casual pants, harem pants, Korean trend",
+            "imageURL": "http://img.alicdn.com/bao/uploaded/i1/TB1JExlOVXXXXcGaXXXXXXXXXXX_!!0-item_pic.jpg",
+            "link": "ezbuyapp://productDetail?uri=99930&ezspm=3.10000000.10.0.0",
+            "price": "S$ 23.57",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "Umbro Umbro sportswear men's soccer wear running pants suit with short sleeves and fitness sportswear",
+            "imageURL": "http://img.alicdn.com/bao/uploaded/i3/TB1.84pSXXXXXbnXVXXXXXXXXXX_!!0-item_pic.jpg",
+            "link": "ezbuyapp://productDetail?uri=157462&ezspm=3.10000000.10.0.0",
+            "price": "S$ 21.64",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 2,
+            "name": "Under $9.9",
+            "imageURL": "http://i.ezbuy.sg/FnR_xp5VI3fkCSvu-FyOGVX1M8Kl",
+            "link": "ezbuyapp://category?id=a171&title=Under%20%249.9&ezspm=3.10000000.10.0.59b89c02955feb000bba38c2",
+            "price": "",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          }
+        ]
+      },
+      {
+        "name": "AppTest",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fg1aiOxu6svsnCUmp5nZv1M2VnBT",
+        "link": "ezbuyapp://category?id=0&title=AppTest&ezspm=2.10000000.10.0.5c19ec37039baa0009f8982f",
+        "floorEntities": [
+          {
+            "type": 1,
+            "name": "Super thick small chest mm necessary OH",
+            "imageURL": "https://s3.mogucdn.com/b7/pic/131024/11hvth_kqywcqtikfbfissugfjeg5sckzsew_480x640.jpg",
+            "link": "ezbuyapp://productDetail?uri=51000000593576&ezspm=3.10000000.10.0.0",
+            "price": "S$ 8.54",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "Clothing * traveler praises Lolita Lolita dress sweet soft teenage jsk strap dress",
+            "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fg-KDCkykB4YD96Uzfk6raa0i3E-",
+            "link": "ezbuyapp://productDetail?uri=168476&ezspm=3.10000000.10.0.0",
+            "price": "S$ 0.30",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "韩国的西装",
+            "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FqAF95GlWpEOvULROpmNuyjeUV3H",
+            "link": "ezbuyapp://productDetail?uri=376563&ezspm=3.10000000.10.0.0",
+            "price": "S$ 0.20",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "韩国 袜子邹",
+            "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fq3toch1GaInMolVW9YCejoGlyvD",
+            "link": "ezbuyapp://productDetail?uri=376326&ezspm=3.10000000.10.0.0",
+            "price": "S$ 0.06",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 2,
+            "name": "AppTest",
+            "imageURL": "http://i.ezbuy.sg/FnR_xp5VI3fkCSvu-FyOGVX1M8Kl",
+            "link": "ezbuyapp://category?id=0&title=AppTest&ezspm=3.10000000.10.0.5c19ec37039baa0009f8982f",
+            "price": "",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          }
+        ]
+      },
+      {
+        "name": "AppTest",
+        "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fg1aiOxu6svsnCUmp5nZv1M2VnBT",
+        "link": "ezbuyapp://category?id=0&title=AppTest&ezspm=2.10000000.10.0.5c19ec37039baa0009f8982f",
+        "floorEntities": [
+          {
+            "type": 1,
+            "name": "Super thick small chest mm necessary OH",
+            "imageURL": "https://s3.mogucdn.com/b7/pic/131024/11hvth_kqywcqtikfbfissugfjeg5sckzsew_480x640.jpg",
+            "link": "ezbuyapp://productDetail?uri=51000000593576&ezspm=3.10000000.10.0.0",
+            "price": "S$ 9.99",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "Clothing * traveler praises Lolita Lolita dress sweet soft teenage jsk strap dress",
+            "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fg-KDCkykB4YD96Uzfk6raa0i3E-",
+            "link": "ezbuyapp://productDetail?uri=168476&ezspm=3.10000000.10.0.0",
+            "price": "S$ 0.30",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "韩国的西装",
+            "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/FqAF95GlWpEOvULROpmNuyjeUV3H",
+            "link": "ezbuyapp://productDetail?uri=376563&ezspm=3.10000000.10.0.0",
+            "price": "S$ 0.20",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 1,
+            "name": "韩国 袜子邹",
+            "imageURL": "http://7xiata.com1.z0.glb.clouddn.com/Fq3toch1GaInMolVW9YCejoGlyvD",
+            "link": "ezbuyapp://productDetail?uri=376326&ezspm=3.10000000.10.0.0",
+            "price": "S$ 0.06",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          },
+          {
+            "type": 2,
+            "name": "AppTest",
+            "imageURL": "http://i.ezbuy.sg/FnR_xp5VI3fkCSvu-FyOGVX1M8Kl",
+            "link": "ezbuyapp://category?id=0&title=AppTest&ezspm=3.10000000.10.0.5c19ec37039baa0009f8982f",
+            "price": "",
+            "oriPrice": "",
+            "discount": "",
+            "discountInfo": null
+          }
+        ]
+      }
+    ],
+    "groupLayoutInfo": {
+      "layoutType": 5,
+      "columnCount": 1,
+      "cellRatio": 3,
+      "bottomGap": 8,
+      "floorEntitiesLayoutInfo": {
+        "cellRatio": 1,
+        "screenCount": 3,
+        "margin": 1
+      }
+    },
+    "link": ""
+  }
+]
