@@ -18,6 +18,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/wutongyu008/FlutterSDK.git", :tag => "#{spec.version}" }
 
   spec.vendored_frameworks = "Framework/*.framework"
-  spec.resources = "Framework/flutter_assets"
 
 end
