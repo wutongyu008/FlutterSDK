@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "EZFlutterSDK"
-  spec.version      = "0.0.6"
+  spec.version      = "0.0.7"
   spec.summary      = "Flutter编译后的文件"
   spec.homepage     = "https://github.com/wutongyu008/FlutterSDK"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
