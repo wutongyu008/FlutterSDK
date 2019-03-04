@@ -323,6 +323,7 @@
   },
   {
     "type": 10,
+    "name": "Kitchen",
     "entranceList": [
       {
         "imageURL": "http://ww1.sinaimg.cn/large/006a751ugy1g0l2p650avj305601l0lv.jpg",
