@@ -9,14 +9,14 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "EZFlutterSDK"
-  spec.version      = "0.0.9"
+  spec.version      = "0.1.0"
   spec.summary      = "Flutter编译后的文件"
   spec.homepage     = "https://github.com/wutongyu008/FlutterSDK"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "wutongyu008" => "wutongyu_08@163.com" }
   spec.platform     = :ios, "9.0"
   spec.source       = { :git => "https://github.com/wutongyu008/FlutterSDK.git", :tag => "#{spec.version}" }
-
+spec.public_header_files = './Classes/**/*.h'
   spec.vendored_frameworks = "Framework/*.framework"
 
 end
